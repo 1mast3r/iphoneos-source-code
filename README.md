@@ -1,4 +1,7 @@
 # iPhoneOS/iOS Source Code
+
+WARNING!!! Do not download iPhoneOS source code via "git clone" download via Releases
+
 1. Introduction:
    The iPhoneOS 1.0 source code and the ability to extract source code from iPhoneOS 1.0 to iOS 11.4.1 firmware gives users access to the archived source code, allowing them to explore and analyze its functionality as well as create their own projects based on that code. It is important to note that the free source code version contains closed and proprietary components.
 
